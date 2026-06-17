@@ -14,10 +14,15 @@ This plugin was only tested on Ableton Live 11, so while I doubt there'd be issu
 To manage your patches, they are located in the folder "patches"
 Every module located in this folder will get loaded at startup
 
-To use this patch loader both "x.dll and "REX Shared Library.dll" must be installed in the program directory
+To use this patch loader both "x.dll and "REX Shared Library.dll" must be installed in the program directory.
 the "REX Shared Library.dll" module in the directory must be replaced with mine
 Absolutely **ZERO** of the functionality of the original is lost
 so there is no need to remove it to disable the patch loader, deleting or even renaming "x.dll" will suffice.
+to load patches, make a directory called "patches" and insert any DLL's you'd like loaded at startup.
+
+**...Or extract the contents from the latest git release into the Ableton installation directory**
+
+**For example, "C:\ProgramData\Ableton\Live 11 Suite\Program"**
 
 FAQ:
 ---
