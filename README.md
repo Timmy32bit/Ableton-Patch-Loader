@@ -1,6 +1,6 @@
 Ableton Live Patch loader v1.0
 
-By uwucaptain666 aka Timmy32bit aka Timmy
+By UwUCaptain aka Timmy32bit aka Timmy
 ================================
 
 By default this patch loader comes bundled with a simple patch called "SimpleStartup"
