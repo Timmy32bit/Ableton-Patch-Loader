@@ -6,9 +6,9 @@ By uwucaptain666 aka Timmy32bit aka Timmy
 By default this patch loader comes bundled with a simple patch called "SimpleStartup"
 This plugin does the following...
 
-> Disables Ableton usage telemtry
-> Disables plugin scanning (so no more annoying scanning on startup)
-> Disables writing the usage log (temp file)
+* Disables Ableton usage telemtry
+* Disables plugin scanning (so no more annoying scanning on startup)
+* Disables writing the usage log (temp file)
 This plugin was only tested on Ableton Live 11, so while I doubt there'd be issues for Live 12, I haven't confirmed
 
 To manage your patches, they are located in the folder "patches"
